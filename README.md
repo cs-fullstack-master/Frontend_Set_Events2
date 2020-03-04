@@ -10,7 +10,7 @@ Make the colors recycle once the last color is reached.
 
 
 ### Exercise 2
-Use the included HTML file ```index.html``` to do the following exercising using classList instead of javascript styling. Make any necessary CSS definitions in a stylesheet.
+Use the included HTML file ```index.html``` to do the following exercise using `classList` instead of javascript inline styling. Make any necessary CSS definitions in a stylesheet.
 
 1) Make all inputs have a 3px red border
 2) Give everything with the class 'hello' a white background
