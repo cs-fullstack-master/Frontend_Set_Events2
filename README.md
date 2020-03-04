@@ -5,7 +5,7 @@ Create an HTML file with a button. Using Javascript, once the button is clicked 
 
 ``` ["blue", "red", "yellow", "brown", "orange", "purple", "black", "green"]  ```
 
-##### Extra Credit:
+##### Challenge:
 Make the colors recycle once the last color is reached.
 
 
