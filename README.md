@@ -13,6 +13,6 @@ Make the colors recycle once the last color is reached.
 Use the included HTML file ```index.html``` to do the following exercise using `classList` instead of javascript inline styling. Make any necessary CSS definitions in a stylesheet.
 
 1) Make all inputs have a 3px red border
-2) Give everything with the class 'hello' a white background
-3) Give the element with id 'special' a 2px solid blue border(pick your own rgb blue)
-4) Make all the &lt;p&gt;'s that are nested inside of divs 25px font(font-size: 25px)
+2) Give everything with the class `hello` a white background
+3) Give the element with id `special` a 2px solid blue border(pick your own rgb blue)
+4) Make all the `<p>` tags that are nested inside of `divs` 25px font(font-size: 25px)
