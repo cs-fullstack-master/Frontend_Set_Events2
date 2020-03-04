@@ -1,4 +1,4 @@
-# Frontend_Set_Events2
+# Frontend JavaScript Events
 
 ### Exercise 1
 Create an HTML file with a button. Using Javascript, once the button is clicked use the array below to change the color of the background to the corresponding index. The colors do not have to start over once the last color is reached.
