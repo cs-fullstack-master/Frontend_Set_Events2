@@ -15,4 +15,6 @@ Use the included HTML file ```index.html``` to do the following exercise using `
 1) Make all inputs have a 3px red border
 2) Give everything with the class `hello` a white background
 3) Give the element with id `special` a 2px solid blue border(pick your own rgb blue)
-4) Make all the `<p>` tags that are nested inside of `divs` 25px font(font-size: 25px)
+
+##### Challenge:
+Make all the `<p>` tags that are nested inside of `divs` 25px font(font-size: 25px)
